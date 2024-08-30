@@ -1,0 +1,1 @@
+".\tools\Mesen\Mesen.exe" ".\roms\sound.sfc"
